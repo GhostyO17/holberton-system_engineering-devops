@@ -1,2 +1,2 @@
 # holberton-system_engineering-devops
-Contains a number of Holberton exercises
+Contains a number of Holberton exercises and tasks
