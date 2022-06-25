@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-ps -faux
+#Displays a list of current processes
+ps -auxf
