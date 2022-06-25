@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#
+#Script that displays To infinity and beyond indefinitely
 x=0
 while [ $x -le 5 ]
 x=$((x++))

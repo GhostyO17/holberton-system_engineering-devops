@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# 
+# displays I am invincible!!! when receiving a SIGTERM signal
 x=0
 while [ $x -le 5 ]
 x=$((x++))
